@@ -1,0 +1,9 @@
+#tup=(1,3,7)
+#print(tup)
+a=1
+b=8
+a,b=b,a
+#temp=a
+#a=b
+#b=temp
+print(a,b)

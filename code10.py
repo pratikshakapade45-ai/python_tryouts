@@ -1,0 +1,5 @@
+s=set()
+#print(type(s))
+s.add(1)
+s.add(2)
+print(s)
